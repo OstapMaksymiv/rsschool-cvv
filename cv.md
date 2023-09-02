@@ -17,3 +17,27 @@ I've been studying "Programming" at the university for a year and already have g
 - Java-Script
 - Python
 - PHP
+- Git, GitHub
+- VS Code, PyCharm
+- Adobe Photoshop,Figma
+### **Code Example**
+---
+```
+ function multiply(a, b){
+  return a * b;
+ }
+ var mnożenie=multiply(2,3);
+ console.log(mnożenie);
+```
+
+### **Experience**
+___
+### **Education**
+___
+- **University:** University of Information Technology and Management (2022-present)
+### **Languages:**
+___
+- Ukrainian (C1) 
+- Russian (B2)
+- English (B2)
+- Polish (B1)
