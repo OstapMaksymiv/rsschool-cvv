@@ -1,1 +1,1 @@
-https://OstapMaksymiv.github.io/rsschool-cv/cv
+https://OstapMaksymiv.github.io/rsschool-cv/cv.md
